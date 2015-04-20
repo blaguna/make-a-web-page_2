@@ -1,0 +1,33 @@
+/*CSS Comments look like this*/
+body {
+    padding: 20px 10px;
+    font-family: Helvetica;
+    max-width: 2000px;
+    margin: 0 auto; 
+    font-size: 1em;
+} 
+h1{text-align: center; color: #20b2aa}
+p{margin: 10px 0}
+.first-paragraph{
+  background-color:#2d4471;
+  border-radius: 20px; 
+  color: white;
+  padding: 10px;
+  margin: 10px auto;
+}
+.second-paragraph{
+  background-color:#A0BAEC;
+  border-radius: 20px;
+  color:#02050C;
+  padding: 10px;
+  margin: 10px auto;
+}
+.third-paragraph{
+  background-color:#003191;
+  border-radius: 20px;
+  color:#A0BAEC;
+  padding: 10px;
+  margin: 10px auto;
+}
+.lesson{text-align:center;
+Color:Black}
